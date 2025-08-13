@@ -48,4 +48,6 @@ Follow these steps:
 
 
 ## Author
-@lokeshgavara1
+### Gavara Lokesh
+📧 lokeshgavara1@gmail.com
+🔗 LinkedIn Profile
